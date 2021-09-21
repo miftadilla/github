@@ -1,0 +1,12 @@
+1. git clean is one of the command of the git that have a function for deleting untracked files in a repo's working directory.
+2. I dont know
+3. git branch <branch>
+4. the difference between  a fast-forward and recursive merge is a fast-forward have a straight line of history and a recursive merge have some multiples lines
+5. git checkout <the name of branch that you want to move>
+6. using command “rm”
+7. git branch -d <the name of branch that you want to delete>
+8. git diff is one of the command of the git that have a function for showing all the result of conflict
+9. rm <file’s name>
+    1. git commit -m “removing file”
+    2. git log
+10. merge conflicts can happen by merging a branch, rebasing a branch, or cherry picking a commit.

@@ -1,0 +1,4 @@
+1. the difference between git revert and git reset is git revert would cancel all the changes without remove the last commit but git reset would remove the last commit. I would using the git revert when i want to cancel one file or more  without remove the last commit and would using the git reset when i want to cancel all of the commits.
+2. the difference between git merge and git rebase is git merge would unite two branch meanwhile the git rebase would reapply the other branch. If i want to copy a branch i would prefer using the git rebase because it would be effortless but if i want to unite two different branch so i would prefer using the git merge.
+3. the difference between git stash pop and git stash apply is git stash pop have the function for throws away maeanwhile the git stash after have the function to applying it.
+4. When i do a rebasing, i can edit, delete, and squash file.
